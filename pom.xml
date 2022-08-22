@@ -8,14 +8,17 @@
 		<version>2.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>com.gmail.mbotyuk</groupId>
 	<artifactId>CodereviewShortLink</artifactId>
 	<version>0.0.1</version>
 	<name>CodereviewShortLink</name>
 	<description>Codereview short link</description>
+
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
