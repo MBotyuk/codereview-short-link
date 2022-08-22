@@ -1,9 +1,12 @@
 # codereview-short-link
 
 ### Для запуска приложения локально необходимо наличие:
-*  Java 11
-*  Maven 3
-*  PostgreSQL 13.3
+* Java 11
+* Maven 3
+* PostgreSQL 13.3
+
+### Heroku
+_https://codereview-short-link.herokuapp.com/_
 
 ### Алгоритм создания короткой ссылки
 ```
